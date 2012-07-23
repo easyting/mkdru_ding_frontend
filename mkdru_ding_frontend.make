@@ -27,6 +27,6 @@ projects[mkdru_ding][download][branch] = "7.x-1.x"
 
 ; Libraries
 projects[pazpar2][type] = "library"
-projects[pazpar2][download][type] = "git"
-projects[pazpar2][download][url] = "git://git.indexdata.com/pazpar2.git"
+projects[pazpar2][download][type] = "get"
+projects[pazpar2][download][url] = "http://ftp.indexdata.dk/pub/pazpar2/pazpar2-1.6.15.tar.gz"
 
