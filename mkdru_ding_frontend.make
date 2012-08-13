@@ -1,11 +1,11 @@
 api = 2
 core = 7.x
 
-projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.0"
+projects[ctools][subdir] = contrib
+projects[ctools][version] = "1.1"
 
 projects[strongarm][subdir] = contrib
-projects[strongarm][version] = 2.0-beta4
+projects[strongarm][version] = "2.0"
 
 projects[mkdru][subdir] = contrib
 ; Pulling out of git for the moment being, 1.1 is broken.
