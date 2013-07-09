@@ -22,7 +22,7 @@ projects[mkdru][patch][] = "http://drupal.org/files/selected-facet-disappears-in
 projects[mkdru_ding][subdir] = contrib
 projects[mkdru_ding][type] = "module"
 projects[mkdru_ding][download][type] = "git"
-projects[mkdru_ding][download][url] = "git://github.com/indexdata/mkdru_ding.git"
+projects[mkdru_ding][download][url] = "git@github.com:indexdata/mkdru_ding.git"
 projects[mkdru_ding][download][branch] = "7.x-1.x"
 
 ; Libraries
